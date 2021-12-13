@@ -32,7 +32,7 @@
                         </div>
                         <!-- End of Dropdown Menu -->
                         <span class="divider d-lg-show"></span>
-                        <a href="#" class="text-normal d-lg-show">Sell on Wolmart</a>
+                        <a href="#" class="text-normal d-lg-show">Sell on Dev.Orlando Douglas</a>
                         
 
     @auth
